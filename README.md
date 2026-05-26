@@ -78,6 +78,11 @@ MySQL
 MySQL Workbench
 GitHub
 
+## Project Blog
+
+I have also explained this project in detail on Medium:
+
+🔗 [Core SQL Concepts and Real-World Applications](https://medium.com/@smitabalekundri120/core-sql-concepts-and-real-world-applications-9b67829be735)
 
 Author
 
